@@ -1,0 +1,6 @@
+{
+  "name": "治愈手账",
+  "description": "极简治愈风纯免费个人手账工具，支持手绘涂鸦、拼图、AI抠图贴纸、日历日程联动与双人私密回忆空间。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
